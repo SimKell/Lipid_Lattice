@@ -1,0 +1,12 @@
+Binary System - DLiPC/CHOL
+ 
+Simulation Type: Simple MC Run
+Interaction Type: Average Order Parameter
+Movement Type: Adjacent Jumps
+
+CHOL-Conc.: 0.200000 (25 Particles)
+Temperature: 290 K
+Average Order Parameter:  0.368605
+Total Energy: -32818.753876
+#CC-Contacts (Equilibrium): 9.896384
+#CC-Contacts (Normalized): 0.816452
