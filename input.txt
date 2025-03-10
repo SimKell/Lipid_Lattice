@@ -1,0 +1,51 @@
+Project Name: Quick_Test
+    project name, used for output files
+
+Lattice Type: 0
+    defines the mode the lattice simulation is running in 
+    (0: simple simulation, 1: iterative Boltzmann procedure, 2: determination of CHOL's effect on entropy)
+Interaction Type: 0
+    defines the interaction type used 
+    (0: avg order parameter, 1: minimal order parameter)
+Movement Type: 1
+    defines the movement type used 
+    (0: random jumps, 1: jumps to adjacent lattice sites)
+
+Dimension: 2
+    dimension of the lattice (should be 2 in most cases)
+Lattice Size: 10
+    defines the number of sites in every dimension
+
+Temperature: 330
+    temperature in K
+Number of Lipids: 1
+    number of different lipid types
+Lipid Type: 0
+    type of lipid for simulations with one lipid (0: DPPC, 1: DLiPC)
+Concentration (DLiPC): 0.5
+    concentration of DLiPC in simulations with 2 lipid types (DPPC and DLiPC)
+Concentration (CHOL): 0.0
+    concentration of CHOL (the maximal concentration is 0.5)
+Orderwidth: 11
+    defines the change of the order parameter
+
+Number of Runs: 0
+    number of additional runs after the first
+Number of Steps: 500000
+    number of MC steps per run
+Data Points: 25
+    number of steps counted for the calculation of output parameters
+Equilibrium: 0.75
+    percentage after which the output parameters are calculated
+
+
+
+
+         _   _
+        (.)_(.)
+     _ (   _   ) _
+    / \/`-----'\/ \   Welcome to Lipid Lattice 0.0.3
+  __\ ( (     ) ) /__
+  )   /\ \._./ /\   (
+   )_/ /|\   /|\ \_(
+
