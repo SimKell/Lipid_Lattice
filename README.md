@@ -1,4 +1,4 @@
-Lipid Lattice 0.0.3
+Lipid Lattice
 ==============================
 
 This program performs simple Monte-Carlo simulations of a lattice system of lipids and CHOL.
