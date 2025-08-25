@@ -2,7 +2,7 @@ Lipid Lattice
 ==============================
 
 This program performs Monte-Carlo simulations of a lattice system of lipids and CHOL.
-Based on interaction functions derived by MD simulations performed by Fabian Keller.
+It is based on interaction functions derived by MD simulations performed by Fabian Keller.
 The first version of a squared lattice system for pure lipid mixtures was implementend by Davit Hokabyan & Andreas Heuer.
 Example Input and Output Files can be found in "/Check" for comparison after changing the code.
 
